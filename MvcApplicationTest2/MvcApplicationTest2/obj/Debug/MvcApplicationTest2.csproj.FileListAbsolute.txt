@@ -1,0 +1,7 @@
+D:\!work\test2\MvcApplicationTest2\MvcApplicationTest2\bin\MvcApplicationTest2.dll
+D:\!work\test2\MvcApplicationTest2\MvcApplicationTest2\bin\MvcApplicationTest2.pdb
+D:\!work\test2\MvcApplicationTest2\MvcApplicationTest2\bin\EntityFramework.dll
+D:\!work\test2\MvcApplicationTest2\MvcApplicationTest2\bin\EntityFramework.xml
+D:\!work\test2\MvcApplicationTest2\MvcApplicationTest2\obj\Debug\ResolveAssemblyReference.cache
+D:\!work\test2\MvcApplicationTest2\MvcApplicationTest2\obj\Debug\MvcApplicationTest2.dll
+D:\!work\test2\MvcApplicationTest2\MvcApplicationTest2\obj\Debug\MvcApplicationTest2.pdb
